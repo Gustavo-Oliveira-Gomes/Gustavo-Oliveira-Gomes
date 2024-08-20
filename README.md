@@ -1,8 +1,8 @@
 ## Olá! Eu sou Gustavo Oliveira
 <div>
  <a href="">
-  <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Oliveira-Gomes&show_icons=true&theme=dark#gh-dark-mode-only/&rank icon=github"/>
-  <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Gomes&layout=compact&theme=dark#gh-dark-mode-only"/> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gustavo-Oliveira-Gomes&show_icons=true&theme=dark#gh-dark-mode-only/&rank icon=github"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Gomes&layout=compact&theme=dark#gh-dark-mode-only"/> 
 </div>
 
 ##
