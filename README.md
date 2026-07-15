@@ -1,7 +1,7 @@
 ## Olá! Eu sou Gustavo Oliveira
 <div>
  <a href="">
-  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical"/>
+  <img height="180em" src="https://github-stats-extended.vercel.app/api?username=Gustavo-Oliveira-Gomes&show_icons=true&theme=radical"/>
   <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Gustavo-Oliveira-Gomes&layout=compact&theme=dark#gh-dark-mode-only"/> 
 </div>
 
